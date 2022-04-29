@@ -1,0 +1,20 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text#blacksip"
+    ]
+  },
+
+  "rich-text#blacksip": {
+    "props": {
+      "blockClass": "title-tags",
+      "text":"<h1>Nuestros Valores</h1>"
+    }
+  },
+  "rich-text#proposito": {
+    "props": {
+      "blockClass": "title-tags",
+      "text": " -Perseguimos el WOW de nuestros clientes \n – Perseguimos el aprendizaje y el crecimiento \n – Somos apasionados y disciplinados \n – Somos un equipo \n – Somos orientas a resultados"
+    }
+  }
+}
